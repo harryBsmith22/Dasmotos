@@ -1,0 +1,25 @@
+h1 {
+    background-image: url(./images/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+#brush {
+    background-color: MediumSpringGreen;
+}
+#frame {
+    background-color: lightcoral;
+}
+#paint {
+    background-color: skyblue;
+}
+ h2 {
+    color: white;
+    font-size: 32px;
+ }
+
+ span {
+     color:blue;
+     font-weight: bold;
+ }
